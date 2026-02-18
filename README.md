@@ -37,6 +37,7 @@ Ensure you have Python 3.x installed. It is recommended to use a virtual environ
 
 ```bash
 # Activate your virtual environment
+python -m venv .venv
 source .venv/bin/activate
 
 # Install dependencies
