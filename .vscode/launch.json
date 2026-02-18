@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/alfiea/Desktop/Alfie Coding/Hackathon/Global Innovation Build Challenge V1",
+      "program": "/Users/alfiea/Desktop/Alfie Coding/Hackathon/Global Innovation Build Challenge V1/build/Debug/outDebug"
+    }
+  ]
+}
