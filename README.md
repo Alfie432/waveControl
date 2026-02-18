@@ -40,4 +40,7 @@ Ensure you have Python 3.x installed. It is recommended to use a virtual environ
 source .venv/bin/activate
 
 # Install dependencies
-pip install -r software/requirements.txt
+pip install -r requirements.txt
+```
+
+Huge thank you to Global Innovation Build Challenge V1 for giving me the oppertunity to build this project!
