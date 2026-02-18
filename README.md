@@ -21,11 +21,11 @@ The system operates via a continuous feedback loop:
 
 ### Wiring Diagram
 
-| HC-SR04 Pin | Arduino Pin |
-|     VCC    -->   5V      |
-|     Trig   -->   Pin 9   |
-|     Echo   -->   Pin 10  |
-|     GND    -->   GND     |
+ HC-SR04 Pin | Arduino Pin 
+      VCC    -->   5V      
+      Trig   -->   Pin 9   
+      Echo   -->   Pin 10  
+      GND    -->   GND     
 
 ---
 
