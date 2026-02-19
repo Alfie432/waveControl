@@ -11,7 +11,7 @@ The system operates via a continuous feedback loop:
 2.  **Communication Layer**: Data is transmitted via Serial (UART) over USB to a host computer.
 3.  **Application Layer**: A Python script processes the incoming distance data, applies a debouncing cooldown, and triggers specified hotkeys using the PyAutoGUI library.
 
-Link to Project Video: [Project Video] (https://youtu.be/yUjy1vGu9NY)
+Link to Project Video: https://youtu.be/yUjy1vGu9NY
 ---
 
 ## Hardware Requirements
